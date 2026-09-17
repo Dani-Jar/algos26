@@ -1,200 +1,198 @@
-Массивы
+1. Строки
 
-Move Zeroes — Easy — ya, vk, oz — solved
-Single Number — Easy — sb
-Monotonic Array — Easy — oz
-Best Time to Buy and Sell Stock — Easy — oz
-Add to Array-Form of Integer — Easy — av
-Form Smallest Number From Two Digit Arrays — Easy — tb
+Reverse String — Easy — sb
+Valid Palindrome — Easy — ya, tb, vk, sb
+CodeRun 304 Проверка палиндрома (базовая версия) — ya — solved
+Valid Palindrome II — Easy — ya — solved
+Reverse Words in a String III — Easy — ya, sb
+Roman to Integer — Easy — sb
+String Compression — Medium — ya — solved
+CodeRun 310 Кодирование длин серий (RLE, прямое соответствие) — ya — solved
+One Edit Distance — Medium — ya — solved
+Longest Palindromic Substring — Medium — ya, tb
+Reverse Words in a String — Medium — ya — solved
+Reverse Words in a String II — Medium — ya — solved
+Cracking the Coding Interview 1.3 (URLify) — ya — solved
+Restore IP Addresses — Medium — ya — solved
+Valid Number — Hard — ya — solved
+
+2. Хэш-таблицы и множества
+
+Two Sum — Easy — ya, tb, av, oz
+Jewels and Stones — Easy — ya
+Valid Anagram — Easy — sb
+Missing Number — Easy — ya, sb
+Isomorphic Strings — Easy — tb
+First Unique Character in a String — Easy — ya, oz
+Find the Difference of Two Arrays — Easy — sb
 Find All Numbers Disappeared in an Array — Easy — tb
-Product of Array Except Self — Medium — ya
-Max Consecutive Ones — Easy — ya, sb — solved
-Number of Students Doing Homework at a Given Time — Easy — sb
-Plus One — Easy — ya — solved
-Remove Element — Easy — ya — solved
-Longest Continuous Increasing Subsequence — Easy — ya — solved
-Longest Turbulent Subarray — Medium — ya — solved
-Divide an Array Into Subarrays With Minimum Cost I — Medium — ya — solved
-Divide an Array Into Subarrays With Minimum Cost II — Hard — ya — solved
-Shortest Word Distance — Easy — ya — solved
-Shortest Word Distance III — Medium — ya — solved
+Form Smallest Number From Two Digit Arrays — Easy — tb
+Intersection of Two Arrays — Easy — ya — solved
+CodeRun 61 Пересечение множеств (без «по префиксам») — ya — solved
+Group Anagrams — Medium — ya
+Insert Delete GetRandom O(1) — Medium — ya
+Robot Bounded In Circle — Medium — ya — solved
+LRU Cache — Medium — ya, oz, ydr
 
-Два указателя
+3. Два указателя
 
-Two Sum II – Input Array Is Sorted — Easy — ya
-Remove Duplicates from Sorted Array — Easy — ya — solved
-Remove Duplicates from Sorted Array II — Medium — ya — solved
-Squares of a Sorted Array — Easy — ya, tb, sb, oz
-Merge Sorted Array — Easy — ya, av, vk
+Two Sum II – Input Array Is Sorted — Easy — ya (вход отсортирован)
+Remove Duplicates from Sorted Array — Easy — ya — solved (вход отсортирован)
+Squares of a Sorted Array — Easy — ya, tb, sb, oz (вход отсортирован)
+Merge Sorted Array — Easy — ya, av, vk (вход отсортирован)
 Is Subsequence — Easy — ya, tb, sb — solved
-Trapping Rain Water — Hard — ya
+Move Zeroes — Easy — ya, vk, oz — solved
+Remove Element — Easy — ya — solved
+Shortest Word Distance — Easy — ya — solved
 Intersection of Two Arrays II — Easy — ya — solved
-Find K Closest Elements — Medium — ya — solved
+Remove Duplicates from Sorted Array II — Medium — ya — solved (вход отсортирован)
+Shortest Word Distance III — Medium — ya — solved
+Maximize Distance to Closest Person — Medium — ya, tb, vk
+Find K Closest Elements — Medium — ya — solved (вход отсортирован)
 Dot Product of Two Sparse Vectors — Medium — ya — solved
+Trapping Rain Water — Hard — ya
 
-Скользящее окно
+4. Скользящее окно
 
-Longest Subarray of 1's After Deleting One Element — Medium — ya, tb, vk — solved
+Max Consecutive Ones — Easy — ya, sb — solved
+Consecutive Characters — Easy — ya
+Monotonic Array — Easy — oz
+Longest Continuous Increasing Subsequence — Easy — ya — solved
+Find the Longest Balanced Substring of a Binary String — Easy — tb
+Number of Students Doing Homework at a Given Time — Easy — sb
+Longest Substring Without Repeating Characters — Medium — ya, tb, oz — solved
 Max Consecutive Ones II — Medium — ya
 Max Consecutive Ones III — Medium — ya — solved
-Consecutive Characters — Easy — ya
-Longest Substring Without Repeating Characters — Medium — ya, tb, oz — solved
+Longest Subarray of 1's After Deleting One Element — Medium — ya, tb, vk — solved
 Permutation in String — Medium — ya — solved
 Find All Anagrams in a String — Medium — ya — solved
 Longest Substring with At Most Two Distinct Characters — Medium — ya
-Find the Longest Balanced Substring of a Binary String — Easy — tb
+Longest Turbulent Subarray — Medium — ya — solved
+Divide an Array Into Subarrays With Minimum Cost II — Hard — ya — solved
 
-Префиксные суммы
+5. Префиксные суммы
 
 Subarray Sum Equals K — Medium — ya, tb — solved
 Subarray Sums Divisible by K — Medium — tb
 Continuous Subarray Sum — Medium — ya
 Maximum Size Subarray Sum Equals k — Medium — ya — solved
+Product of Array Except Self — Medium — ya
 
-Хэш-таблицы
-
-Two Sum — Easy — ya, tb, av, oz
-Group Anagrams — Medium — ya
-Jewels and Stones — Easy — ya
-First Unique Character in a String — Easy — ya, oz
-Missing Number — Easy — ya, sb
-Isomorphic Strings — Easy — tb
-Valid Anagram — Easy — sb
-Find the Difference of Two Arrays — Easy — sb
-Intersection of Two Arrays — Easy — ya — solved
-CodeRun 61 Пересечение множеств (без «по префиксам») — ya — solved
-Insert Delete GetRandom O(1) — Medium — ya
-LRU Cache — Medium — ya, oz, ydr
-Line Reflection — Medium — ya — solved
-Robot Bounded In Circle — Medium — ya — solved
-
-Бинарный поиск
-
-Search in Rotated Sorted Array — Medium — ya, tb
-Find Minimum in Rotated Sorted Array — Medium — ya
-Median of Two Sorted Arrays — Hard — ya
-Find First and Last Position of Element in Sorted Array — Medium — tb
-Find K-th Smallest Pair Distance — Hard — ya — solved
-
-Матрицы
-
-Rotate Image — Medium — tb
-Battleships in a Board — Medium — tb
-Search a 2D Matrix — Medium — tb
-Maximal Rectangle — Hard — ya
-
-Сортировка
-
-Two Sum Less Than K — Easy — ya — solved
-
-Интервалы
-
-Summary Ranges — Easy — ya, vk, sb — solved
-Codewars Range Extraction — точное 1:1 соответствие — ya — solved
-Maximize Distance to Closest Person — Medium — ya, tb, vk
-Merge Intervals — Medium — ya, oz — solved
-Meeting Rooms II — Medium — ya, tb — solved
-Interval List Intersections — Medium — ya
-Partition Labels — Medium — ya
-Meeting Rooms — Easy — ya — solved
-Maximum Population Year — Easy — ya — solved
-
-Слияние
-
-Merge Two Sorted Lists — Easy — ya, sb — solved
-Merge k Sorted Lists — Hard — ya — solved
-
-Стек
+6. Стек
 
 Valid Parentheses — Easy — ya, tb, sb, oz
+Backspace String Compare — Easy — tb, sb
+Implement Stack using Queues — Easy — ya — solved
+Min Stack — Medium — tb
 Generate Parentheses — Medium — ya, av
 Evaluate Reverse Polish Notation — Medium — ya
 Simplify Path — Medium — ya, tb
-Max Stack — Easy — ya
-Min Stack — Medium — tb
 Decode String — Medium — ya, tb, oz — solved
-Backspace String Compare — Easy — tb, sb
-Sum of Subarray Minimums — Medium — av
 Minimum Remove to Make Valid Parentheses — Medium — ya — solved
-Implement Stack using Queues — Easy — ya — solved
+Sum of Subarray Minimums — Medium — av
+Max Stack — Hard — ya
+Maximal Rectangle — Hard — ya
 
-Очередь
+7. Очередь
 
 Implement Queue using Stacks — Easy — ya — solved
 Number of Recent Calls — Easy — ya — solved
 Design Hit Counter — Medium — ya — solved
 Design Circular Queue — Medium — ya — solved
 
-Куча
+8. Бинарный поиск
 
-Kth Largest Element in an Array — Medium — av
-Top K Frequent Elements — Medium — av
+Search in Rotated Sorted Array — Medium — ya, tb (вход отсортирован)
+Find Minimum in Rotated Sorted Array — Medium — ya (вход отсортирован)
+Find First and Last Position of Element in Sorted Array — Medium — tb (вход отсортирован)
+Search a 2D Matrix — Medium — tb (вход отсортирован)
+Median of Two Sorted Arrays — Hard — ya (вход отсортирован)
+Find K-th Smallest Pair Distance — Hard — ya — solved
 
-Связные списки
+9. Сортировка и интервалы
+
+Two Sum Less Than K — Easy — ya — solved
+Summary Ranges — Easy — ya, vk, sb — solved (на LeetCode вход отсортирован; у Яндекса — нет, сортируешь сам)
+Meeting Rooms — Easy — ya — solved
+Maximum Population Year — Easy — ya — solved
+Codewars Range Extraction — точное 1:1 соответствие — ya — solved
+Merge Intervals — Medium — ya, oz — solved
+Meeting Rooms II — Medium — ya, tb — solved
+Interval List Intersections — Medium — ya (вход отсортирован)
+Partition Labels — Medium — ya
+
+10. Связные списки
 
 Reverse Linked List — Easy — ya, tb, oz
+Merge Two Sorted Lists — Easy — ya, sb — solved (вход отсортирован)
+Palindrome Linked List — Easy — ya
 Add Two Numbers — Medium — ya, av
 Remove Nth Node From End of List — Medium — ya
-Palindrome Linked List — Easy — ya
 
-Деревья
+11. Деревья
 
 Symmetric Tree — Easy — ya
-Validate Binary Search Tree — Medium — ya
-Lowest Common Ancestor of a Binary Tree — Medium — ya
-Lowest Common Ancestor of a Binary Tree III — Medium — ya — solved
-Range Sum of BST — Easy — ya
-Binary Tree Maximum Path Sum — Hard — ya
 Same Tree — Easy — sb
 Invert Binary Tree — Easy — oz
 Sum of Left Leaves — Easy — sb
+Range Sum of BST — Easy — ya
+Validate Binary Search Tree — Medium — ya
+Lowest Common Ancestor of a Binary Tree — Medium — ya
+Lowest Common Ancestor of a Binary Tree III — Medium — ya — solved
 Find Duplicate Subtrees — Medium — ya — solved
+Binary Tree Maximum Path Sum — Hard — ya
 
-Графы
+12. Графы
 
 Number of Islands — Medium — ya, tb
 Keys and Rooms — Medium — tb
 
-Строки
+13. Куча
 
-String Compression — Medium — ya — solved
-CodeRun 310 Кодирование длин серий (RLE, прямое соответствие) — ya — solved
-Valid Palindrome — Easy — ya, tb, vk, sb
-Valid Palindrome II — Easy — ya — solved
-CodeRun 304 Проверка палиндрома (базовая версия) — ya — solved
-One Edit Distance — Medium — ya — solved
-Longest Palindromic Substring — Medium — ya, tb
-Reverse Words in a String III — Easy — ya, sb
-Reverse Words in a String — Medium — ya — solved
-Reverse Words in a String II — Medium — ya — solved
+Kth Largest Element in an Array — Medium — av
+Top K Frequent Elements — Medium — av
+Merge k Sorted Lists — Hard — ya — solved
+
+14. Двумерные массивы
+
+Rotate Image — Medium — tb
+Battleships in a Board — Medium — tb
+
+15. Арифметика (длинные числа)
+
+Plus One — Easy — ya — solved
+Add to Array-Form of Integer — Easy — av
 Add Strings — Easy — ya, av — solved
 Add Binary — Easy — ya — solved
 Multiply Strings — Medium — ya — solved
-Roman to Integer — Easy — sb
-Reverse String — Easy — sb
-Valid Number — Hard — ya — solved
 
-Бэктрекинг
+16. Жадные алгоритмы
 
-Restore IP Addresses — Medium — ya — solved
+Best Time to Buy and Sell Stock — Easy — oz
+Divide an Array Into Subarrays With Minimum Cost I — Easy — ya — solved
 
-Итераторы
+17. Битовые операции
+
+Single Number — Easy — sb
+
+18. Динамическое программирование
+
+Perfect Squares — Medium — ya
+Paint House — Medium — tb
+
+19. Проектирование и структуры данных
 
 Zigzag Iterator — Medium — ya — solved
 Flatten Nested List Iterator — Medium — ya — solved
 Flatten 2D Vector — Medium — ya — solved
 Event Emitter — Medium — tb
 
-Динамическое программирование
+20. Математика и геометрия
 
-Perfect Squares — Medium — ya
-Paint House — Medium — tb
-
-Математика и рандом
-
+Line Reflection — Medium — ya — solved
 Implement Rand10() Using Rand7() — Medium — ya
 
-SQL
+21. SQL
 
 Department Highest Salary — Medium — tb, oz
 Department Top Three Salaries — Hard — oz
