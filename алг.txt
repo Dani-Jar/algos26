@@ -1,0 +1,200 @@
+Массивы
+
+Move Zeroes — Easy — ya, vk, oz — solved
+Single Number — Easy — sb
+Monotonic Array — Easy — oz
+Best Time to Buy and Sell Stock — Easy — oz
+Add to Array-Form of Integer — Easy — av
+Form Smallest Number From Two Digit Arrays — Easy — tb
+Find All Numbers Disappeared in an Array — Easy — tb
+Product of Array Except Self — Medium — ya
+Max Consecutive Ones — Easy — ya, sb — solved
+Number of Students Doing Homework at a Given Time — Easy — sb
+Plus One — Easy — ya — solved
+Remove Element — Easy — ya — solved
+Longest Continuous Increasing Subsequence — Easy — ya — solved
+Longest Turbulent Subarray — Medium — ya — solved
+Divide an Array Into Subarrays With Minimum Cost I — Medium — ya — solved
+Divide an Array Into Subarrays With Minimum Cost II — Hard — ya — solved
+Shortest Word Distance — Easy — ya — solved
+Shortest Word Distance III — Medium — ya — solved
+
+Два указателя
+
+Two Sum II – Input Array Is Sorted — Easy — ya
+Remove Duplicates from Sorted Array — Easy — ya — solved
+Remove Duplicates from Sorted Array II — Medium — ya — solved
+Squares of a Sorted Array — Easy — ya, tb, sb, oz
+Merge Sorted Array — Easy — ya, av, vk
+Is Subsequence — Easy — ya, tb, sb — solved
+Trapping Rain Water — Hard — ya
+Intersection of Two Arrays II — Easy — ya — solved
+Find K Closest Elements — Medium — ya — solved
+Dot Product of Two Sparse Vectors — Medium — ya — solved
+
+Скользящее окно
+
+Longest Subarray of 1's After Deleting One Element — Medium — ya, tb, vk — solved
+Max Consecutive Ones II — Medium — ya
+Max Consecutive Ones III — Medium — ya — solved
+Consecutive Characters — Easy — ya
+Longest Substring Without Repeating Characters — Medium — ya, tb, oz — solved
+Permutation in String — Medium — ya — solved
+Find All Anagrams in a String — Medium — ya — solved
+Longest Substring with At Most Two Distinct Characters — Medium — ya
+Find the Longest Balanced Substring of a Binary String — Easy — tb
+
+Префиксные суммы
+
+Subarray Sum Equals K — Medium — ya, tb — solved
+Subarray Sums Divisible by K — Medium — tb
+Continuous Subarray Sum — Medium — ya
+Maximum Size Subarray Sum Equals k — Medium — ya — solved
+
+Хэш-таблицы
+
+Two Sum — Easy — ya, tb, av, oz
+Group Anagrams — Medium — ya
+Jewels and Stones — Easy — ya
+First Unique Character in a String — Easy — ya, oz
+Missing Number — Easy — ya, sb
+Isomorphic Strings — Easy — tb
+Valid Anagram — Easy — sb
+Find the Difference of Two Arrays — Easy — sb
+Intersection of Two Arrays — Easy — ya — solved
+CodeRun 61 Пересечение множеств (без «по префиксам») — ya — solved
+Insert Delete GetRandom O(1) — Medium — ya
+LRU Cache — Medium — ya, oz, ydr
+Line Reflection — Medium — ya — solved
+Robot Bounded In Circle — Medium — ya — solved
+
+Бинарный поиск
+
+Search in Rotated Sorted Array — Medium — ya, tb
+Find Minimum in Rotated Sorted Array — Medium — ya
+Median of Two Sorted Arrays — Hard — ya
+Find First and Last Position of Element in Sorted Array — Medium — tb
+Find K-th Smallest Pair Distance — Hard — ya — solved
+
+Матрицы
+
+Rotate Image — Medium — tb
+Battleships in a Board — Medium — tb
+Search a 2D Matrix — Medium — tb
+Maximal Rectangle — Hard — ya
+
+Сортировка
+
+Two Sum Less Than K — Easy — ya — solved
+
+Интервалы
+
+Summary Ranges — Easy — ya, vk, sb — solved
+Codewars Range Extraction — точное 1:1 соответствие — ya — solved
+Maximize Distance to Closest Person — Medium — ya, tb, vk
+Merge Intervals — Medium — ya, oz — solved
+Meeting Rooms II — Medium — ya, tb — solved
+Interval List Intersections — Medium — ya
+Partition Labels — Medium — ya
+Meeting Rooms — Easy — ya — solved
+Maximum Population Year — Easy — ya — solved
+
+Слияние
+
+Merge Two Sorted Lists — Easy — ya, sb — solved
+Merge k Sorted Lists — Hard — ya — solved
+
+Стек
+
+Valid Parentheses — Easy — ya, tb, sb, oz
+Generate Parentheses — Medium — ya, av
+Evaluate Reverse Polish Notation — Medium — ya
+Simplify Path — Medium — ya, tb
+Max Stack — Easy — ya
+Min Stack — Medium — tb
+Decode String — Medium — ya, tb, oz — solved
+Backspace String Compare — Easy — tb, sb
+Sum of Subarray Minimums — Medium — av
+Minimum Remove to Make Valid Parentheses — Medium — ya — solved
+Implement Stack using Queues — Easy — ya — solved
+
+Очередь
+
+Implement Queue using Stacks — Easy — ya — solved
+Number of Recent Calls — Easy — ya — solved
+Design Hit Counter — Medium — ya — solved
+Design Circular Queue — Medium — ya — solved
+
+Куча
+
+Kth Largest Element in an Array — Medium — av
+Top K Frequent Elements — Medium — av
+
+Связные списки
+
+Reverse Linked List — Easy — ya, tb, oz
+Add Two Numbers — Medium — ya, av
+Remove Nth Node From End of List — Medium — ya
+Palindrome Linked List — Easy — ya
+
+Деревья
+
+Symmetric Tree — Easy — ya
+Validate Binary Search Tree — Medium — ya
+Lowest Common Ancestor of a Binary Tree — Medium — ya
+Lowest Common Ancestor of a Binary Tree III — Medium — ya — solved
+Range Sum of BST — Easy — ya
+Binary Tree Maximum Path Sum — Hard — ya
+Same Tree — Easy — sb
+Invert Binary Tree — Easy — oz
+Sum of Left Leaves — Easy — sb
+Find Duplicate Subtrees — Medium — ya — solved
+
+Графы
+
+Number of Islands — Medium — ya, tb
+Keys and Rooms — Medium — tb
+
+Строки
+
+String Compression — Medium — ya — solved
+CodeRun 310 Кодирование длин серий (RLE, прямое соответствие) — ya — solved
+Valid Palindrome — Easy — ya, tb, vk, sb
+Valid Palindrome II — Easy — ya — solved
+CodeRun 304 Проверка палиндрома (базовая версия) — ya — solved
+One Edit Distance — Medium — ya — solved
+Longest Palindromic Substring — Medium — ya, tb
+Reverse Words in a String III — Easy — ya, sb
+Reverse Words in a String — Medium — ya — solved
+Reverse Words in a String II — Medium — ya — solved
+Add Strings — Easy — ya, av — solved
+Add Binary — Easy — ya — solved
+Multiply Strings — Medium — ya — solved
+Roman to Integer — Easy — sb
+Reverse String — Easy — sb
+Valid Number — Hard — ya — solved
+
+Бэктрекинг
+
+Restore IP Addresses — Medium — ya — solved
+
+Итераторы
+
+Zigzag Iterator — Medium — ya — solved
+Flatten Nested List Iterator — Medium — ya — solved
+Flatten 2D Vector — Medium — ya — solved
+Event Emitter — Medium — tb
+
+Динамическое программирование
+
+Perfect Squares — Medium — ya
+Paint House — Medium — tb
+
+Математика и рандом
+
+Implement Rand10() Using Rand7() — Medium — ya
+
+SQL
+
+Department Highest Salary — Medium — tb, oz
+Department Top Three Salaries — Hard — oz
