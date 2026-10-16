@@ -32,7 +32,6 @@ CodeRun 61 Пересечение множеств (без «по префикс
 Group Anagrams — Medium — ya
 Insert Delete GetRandom O(1) — Medium — ya
 Robot Bounded In Circle — Medium — ya — solved
-LRU Cache — Medium — ya, oz, ydr
 
 3. Два указателя
 
@@ -108,6 +107,7 @@ Find First and Last Position of Element in Sorted Array — Medium — tb (вх�
 Search a 2D Matrix — Medium — tb (вход отсортирован)
 Median of Two Sorted Arrays — Hard — ya (вход отсортирован)
 Find K-th Smallest Pair Distance — Hard — ya — solved
+Koko Eating Bananas (нет в списке): поиск по ответу, бинпоиск по значению, а не по индексу.
 
 9. Сортировка и интервалы
 
@@ -128,6 +128,7 @@ Merge Two Sorted Lists — Easy — ya, sb — solved (вход отсортир
 Palindrome Linked List — Easy — ya
 Add Two Numbers — Medium — ya, av
 Remove Nth Node From End of List — Medium — ya
+LRU Cache — Medium — ya, oz, ydr
 
 11. Деревья
 
@@ -141,11 +142,13 @@ Lowest Common Ancestor of a Binary Tree — Medium — ya
 Lowest Common Ancestor of a Binary Tree III — Medium — ya — solved
 Find Duplicate Subtrees — Medium — ya — solved
 Binary Tree Maximum Path Sum — Hard — ya
+Binary Tree Level Order Traversal (нет в списке): BFS с очередью.
 
 12. Графы
 
 Number of Islands — Medium — ya, tb
 Keys and Rooms — Medium — tb
+Course Schedule (нет в списке): поиск цикла и топологическая сортировка.
 
 13. Куча
 
@@ -179,6 +182,9 @@ Single Number — Easy — sb
 
 Perfect Squares — Medium — ya
 Paint House — Medium — tb
+Climbing Stairs: состояние это номер ступеньки, переход из двух предыдущих.
+Coin Change: классический DP по сумме (нет в списке, но у тебя есть близкая Perfect Squares).
+Longest Common Subsequence: двумерная таблица по двум строкам.
 
 19. Проектирование и структуры данных
 
