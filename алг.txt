@@ -132,6 +132,7 @@ LRU Cache — Medium — ya, oz, ydr
 
 11. Деревья
 
+Diameter of Binary Tree
 Symmetric Tree — Easy — ya
 Same Tree — Easy — sb
 Invert Binary Tree — Easy — oz
